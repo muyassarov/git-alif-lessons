@@ -3,6 +3,3 @@ Hello World
 My test text file!
 
 ----- New line -----
-
-
-wrong line - this line should not be here
