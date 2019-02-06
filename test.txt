@@ -1,3 +1,5 @@
 Hello World
 
 My test text file!
+
+----- New line -----
